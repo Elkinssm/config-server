@@ -3,3 +3,11 @@ server:
 
 movie:
   property: Movie Profile Dev
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/moviedb
