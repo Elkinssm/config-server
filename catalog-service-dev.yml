@@ -14,3 +14,4 @@ catalog:
   movie-service:
     url: http://localhost:8081
 
+message: Pruebas perfil dev
